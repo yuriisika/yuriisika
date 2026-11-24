@@ -22,7 +22,7 @@ UK-based mobile engineer with 5+ years of commercial experience building and mod
 | [Easy NoteBook](https://yuriisika.com/easy-notebook/) | Published Android note-taking app with 6,800+ total installs (Google Play Console, November 2026). [Google Play](https://play.google.com/store/apps/details?id=com.notes.easynotebook) |
 | [Voice Transcribe](https://yuriisika.com/voice-transcribe/) | Published Android speech-to-text application supporting 14 languages. [Google Play](https://play.google.com/store/apps/details?id=com.voice.transcribe) |
 
-My commercial work and proprietary product source code are not included in this public profile. Further project information and engineering case studies are available on my [portfolio](https://yuriisika.com/).
+Further product information and commercial engineering case studies are available on my [portfolio](https://yuriisika.com/).
 
 ## Professional availability
 
